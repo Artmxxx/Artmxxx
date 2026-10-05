@@ -1,16 +1,15 @@
-## Hi there 👋
+# Manal Gharrabou
 
-<!--
-**Artmxxx/Artmxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Paris, working across backend systems, product engineering, and applied AI.
 
-Here are some ideas to get you started:
+I build products people use, the systems behind them, and take them through release.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+
+- Backend systems and distributed systems
+- Applied AI, evaluation, and reliability
+- Correctness, testing, and production engineering
+
+Most of my production work currently lives in private repositories. I am preparing a small number of public engineering artifacts that expose the underlying systems work without publishing private product code.
+
+[Portfolio](https://manal.torsn.com/) · [LinkedIn](https://www.linkedin.com/in/mgharrabou/)
